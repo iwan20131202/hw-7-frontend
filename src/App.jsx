@@ -1,9 +1,10 @@
+// src/App.js
 import React from 'react';
-import TaskList from './components/TaskList';
+import { TaskList } from './components/TaskList'; // Додай фігурні дужки навколо TaskList
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <TaskList />
     </div>
   );
