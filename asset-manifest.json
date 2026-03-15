@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/hw-7-frontend/static/js/main.f4f80e55.js",
+    "main.js": "/hw-7-frontend/static/js/main.cf3ee892.js",
     "index.html": "/hw-7-frontend/index.html",
-    "main.f4f80e55.js.map": "/hw-7-frontend/static/js/main.f4f80e55.js.map"
+    "main.cf3ee892.js.map": "/hw-7-frontend/static/js/main.cf3ee892.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4f80e55.js"
+    "static/js/main.cf3ee892.js"
   ]
 }
